@@ -31,14 +31,14 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="../lasso game/lasso/MovingObject.cpp" />
-		<Unit filename="../lasso game/lasso/MovingObject.h" />
-		<Unit filename="../lasso game/lasso/coin.cpp" />
-		<Unit filename="../lasso game/lasso/coin.h" />
-		<Unit filename="../lasso game/lasso/lasso.cpp" />
-		<Unit filename="../lasso game/lasso/lasso.exe" />
-		<Unit filename="../lasso game/lasso/lasso.h" />
-		<Unit filename="../lasso game/lasso/main.cpp" />
+		<Unit filename="MovingObject.cpp" />
+		<Unit filename="MovingObject.h" />
+		<Unit filename="coin.cpp" />
+		<Unit filename="coin.h" />
+		<Unit filename="lasso.cpp" />
+		<Unit filename="lasso.exe" />
+		<Unit filename="lasso.h" />
+		<Unit filename="main.cpp" />
 		<Extensions />
 	</Project>
 </CodeBlocks_project_file>
